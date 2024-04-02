@@ -1,0 +1,18 @@
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 0 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 0 received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n2 can't be zero","service":"calculate-service"}
+{"level":"error","message":"n2 can't be zero","service":"calculate-service"}
+{"level":"error","message":"n2 can't be zero","service":"calculate-service"}
+{"level":"error","message":"n2 can't be zero","service":"calculate-service"}
